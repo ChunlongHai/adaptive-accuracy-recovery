@@ -1,0 +1,237 @@
+{
+ "eps_scan": {
+  "n_runs": 4158,
+  "n_executed": 4158,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.4863635650764886,
+  "median_cert_over_err": 8.873991395220473,
+  "per_path": {
+   "centered": {
+    "n": 1386,
+    "min_cert_over_err": 6.4768485759809655,
+    "median_cert_over_err": 528.1000071438266,
+    "max_err_over_eps": 0.13524287564653312
+   },
+   "adversarial": {
+    "n": 1386,
+    "min_cert_over_err": 1.4863635650764886,
+    "median_cert_over_err": 2.6214967697197853,
+    "max_err_over_eps": 0.4824371275061722
+   },
+   "random": {
+    "n": 1386,
+    "min_cert_over_err": 2.5196868311085945,
+    "median_cert_over_err": 5.27252286979147,
+    "max_err_over_eps": 0.31767311594714626
+   }
+  },
+  "enclosure": {
+   "n_pilots_enclosed": 3102,
+   "max_rel_width": 1.6982190812920823e-08,
+   "max_width_over_k_minus_2s": 3.0022561976606365e-05,
+   "max_Lambda_shift": 9.620620618123175e-09
+  }
+ },
+ "rho_sweep": {
+  "n_runs": 3096,
+  "n_executed": 3096,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.4892067751185527,
+  "median_cert_over_err": 21.697903765047794,
+  "per_path": {
+   "centered": {
+    "n": 1032,
+    "min_cert_over_err": 27.781179254483227,
+    "median_cert_over_err": 1550.836776082739,
+    "max_err_over_eps": 0.020288407639237126
+   },
+   "adversarial": {
+    "n": 1032,
+    "min_cert_over_err": 1.4892067751185527,
+    "median_cert_over_err": 3.184515940525398,
+    "max_err_over_eps": 0.4804318145291105
+   },
+   "random": {
+    "n": 1032,
+    "min_cert_over_err": 2.8003962256743695,
+    "median_cert_over_err": 7.296794545509238,
+    "max_err_over_eps": 0.25969555950380185
+   }
+  },
+  "enclosure": {
+   "n_pilots_enclosed": 1992,
+   "max_rel_width": 6.1577754541302805e-15,
+   "max_width_over_k_minus_2s": 8.772780150977779e-08,
+   "max_Lambda_shift": 4.333587817065478e-18
+  }
+ },
+ "eps_scan_1d": {
+  "n_runs": 3102,
+  "n_executed": 3102,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.4863635650764886,
+  "median_cert_over_err": 9.987507496988055,
+  "per_path": {
+   "centered": {
+    "n": 1034,
+    "min_cert_over_err": 6.4768485759809655,
+    "median_cert_over_err": 540.5912230000113,
+    "max_err_over_eps": 0.13524287564653312
+   },
+   "adversarial": {
+    "n": 1034,
+    "min_cert_over_err": 1.4863635650764886,
+    "median_cert_over_err": 2.9942846429863805,
+    "max_err_over_eps": 0.4793184576668806
+   },
+   "random": {
+    "n": 1034,
+    "min_cert_over_err": 2.5196868311085945,
+    "median_cert_over_err": 6.210298680261884,
+    "max_err_over_eps": 0.31767311594714626
+   }
+  },
+  "enclosure": {
+   "n_pilots_enclosed": 3102,
+   "max_rel_width": 1.6982190812920823e-08,
+   "max_width_over_k_minus_2s": 3.0022561976606365e-05,
+   "max_Lambda_shift": 9.620620618123175e-09
+  }
+ },
+ "eps_scan_2d": {
+  "n_runs": 1056,
+  "n_executed": 1056,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.510221297918361,
+  "median_cert_over_err": 5.186641679750803,
+  "per_path": {
+   "centered": {
+    "n": 352,
+    "min_cert_over_err": 7.508149145342046,
+    "median_cert_over_err": 424.8157412079828,
+    "max_err_over_eps": 0.12162124315312281
+   },
+   "adversarial": {
+    "n": 352,
+    "min_cert_over_err": 1.510221297918361,
+    "median_cert_over_err": 2.156638801064127,
+    "max_err_over_eps": 0.4824371275061722
+   },
+   "random": {
+    "n": 352,
+    "min_cert_over_err": 3.049686069722071,
+    "median_cert_over_err": 4.16564586530361,
+    "max_err_over_eps": 0.26123319288475166
+   }
+  }
+ },
+ "power_input": {
+  "n_runs": 900,
+  "n_executed": 900,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.9350178516719119,
+  "median_cert_over_err": 9.29048811605402,
+  "per_path": {
+   "centered": {
+    "n": 300,
+    "min_cert_over_err": 1.9533450517188098,
+    "median_cert_over_err": 126.78839538101312,
+    "max_err_over_eps": 0.2553762923836204
+   },
+   "adversarial": {
+    "n": 300,
+    "min_cert_over_err": 1.9350178516719119,
+    "median_cert_over_err": 3.7602989204345842,
+    "max_err_over_eps": 0.44979790199182756
+   },
+   "random": {
+    "n": 300,
+    "min_cert_over_err": 1.9548931808281957,
+    "median_cert_over_err": 8.25040981210497,
+    "max_err_over_eps": 0.261687551527354
+   }
+  },
+  "enclosure": {
+   "n_pilots_enclosed": 900,
+   "max_rel_width": 4.41915221786626e-09,
+   "max_width_over_k_minus_2s": 3.002256197660636e-05,
+   "max_Lambda_shift": 1.508132118485913e-09
+  }
+ },
+ "harmonic": {
+  "n_runs": 930,
+  "n_executed": 930,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.657464471041603,
+  "median_cert_over_err": 4.6602174325328996,
+  "per_path": {
+   "centered": {
+    "n": 310,
+    "min_cert_over_err": 1.6574645002249728,
+    "median_cert_over_err": 56.97751345595916,
+    "max_err_over_eps": 0.3002194341220228
+   },
+   "adversarial": {
+    "n": 310,
+    "min_cert_over_err": 1.6574871686303363,
+    "median_cert_over_err": 2.565133306125208,
+    "max_err_over_eps": 0.37455165193783474
+   },
+   "random": {
+    "n": 310,
+    "min_cert_over_err": 1.657464471041603,
+    "median_cert_over_err": 4.785170388724026,
+    "max_err_over_eps": 0.30021953350440994
+   }
+  },
+  "n_constant_check_failures": 0
+ },
+ "public_radii": {
+  "n_runs": 33705,
+  "n_executed": 11729,
+  "n_cert_violations": 0,
+  "n_part_violations": 0,
+  "n_over_eps": 0,
+  "n_pilot_lemma_violations": 0,
+  "min_cert_over_err": 1.9291919718447055,
+  "median_cert_over_err": 19.764083791282005,
+  "per_path": {
+   "centered": {
+    "n": 3912,
+    "min_cert_over_err": 6.331716945163021,
+    "median_cert_over_err": 2312.899908846387,
+    "max_err_over_eps": 0.10914098087888983
+   },
+   "adversarial": {
+    "n": 3906,
+    "min_cert_over_err": 1.9291919718447055,
+    "median_cert_over_err": 4.63972987439317,
+    "max_err_over_eps": 0.44821035990660574
+   },
+   "random": {
+    "n": 3911,
+    "min_cert_over_err": 3.1276242000605174,
+    "median_cert_over_err": 10.521247637860604,
+    "max_err_over_eps": 0.29821524536156224
+   }
+  }
+ }
+}
