@@ -2,7 +2,7 @@
 
 Code and numerical records for the paper
 
-> C. Hai, H. Tang, Y. Li and J. Wang, *Adaptive observation accuracy in reliable recovery from priced noisy point values*, submitted to Mathematics of Computation, 2026.
+> C. Hai, H. Tang, Y. Li and J. Wang, *Adaptive observation accuracy in reliable recovery from priced noisy point values*, submitted manuscript, 2026.
 
 They reproduce every figure, table and number in Section 9 of the paper. The code implements
 - Algorithm 1 (pilot and refine, Theorem 4.1);
